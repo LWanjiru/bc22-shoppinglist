@@ -1,0 +1,24 @@
+body.container-fluid {
+  background-color: darkslateblue;
+}
+img {
+  width: 65px;
+}
+div.signup-form {
+  display: block;
+  text-align: center;
+  padding-top: 105px;
+}
+form.card.p-4.col-lg-3 {
+  background-color: whitesmoke;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  color: black;
+}
+div.login-form {
+  display: block;
+  text-align: center;
+  padding-top: 105px;
+}
